@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @edward93
 - 👀 I’m interested in ML/React/.NET/Python
-- 🌱 I’m currently learning ML
+- 🌱 I’m currently learning ML & game development
 - 💞️ I’m looking to collaborate on anything interesting
 - 📫 How to reach me edward.chopuryan@gmail.com
 
